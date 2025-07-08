@@ -1,0 +1,26 @@
+{
+  "BAS": [
+    "#1565C0",
+    "Ciencias Básicas"
+  ],
+  "TEC": [
+    "#2E7D32",
+    "Tecnológicas/Aplicadas"
+  ],
+  "INT": [
+    "#F9A825",
+    "Proyecto Integrador"
+  ],
+  "ESP": [
+    "#6A1B9A",
+    "Programas Especiales"
+  ],
+  "ING": [
+    "#00838F",
+    "Inglés"
+  ],
+  "PRA": [
+    "#D84315",
+    "Práctica Profesional"
+  ]
+}
