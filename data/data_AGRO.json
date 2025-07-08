@@ -1,0 +1,403 @@
+{
+  "s1": [
+    [
+      "Química General",
+      "QUI-101",
+      8,
+      0,
+      "BAS",
+      [],
+      "I"
+    ],
+    [
+      "Física General",
+      "FIS-101",
+      8,
+      0,
+      "BAS",
+      [],
+      "I"
+    ],
+    [
+      "Métodos Cuantitativos I",
+      "MAT-101",
+      8,
+      0,
+      "BAS",
+      [],
+      "I"
+    ],
+    [
+      "Introducción al SIG y Pensamiento Espacial",
+      "SIG-101",
+      8,
+      0,
+      "TEC",
+      [],
+      "I"
+    ],
+    [
+      "Elementos de Cartografía y Topografía",
+      "TOP-101",
+      8,
+      0,
+      "TEC",
+      [],
+      "I"
+    ],
+    [
+      "Proyecto Integrador: SIG / CyT",
+      "INT-101",
+      4,
+      0,
+      "INT",
+      [],
+      "I"
+    ],
+    [
+      "Inglés I",
+      "ING-101",
+      4,
+      0,
+      "ING",
+      [],
+      "I"
+    ],
+    [
+      "Programas Especiales I",
+      "ESP-101",
+      2,
+      0,
+      "ESP",
+      [],
+      "I"
+    ]
+  ],
+  "s2": [
+    [
+      "Química Agrícola",
+      "QUI-201",
+      8,
+      0,
+      "BAS",
+      [
+        "QUI-101"
+      ],
+      "II"
+    ],
+    [
+      "Óptica",
+      "FIS-201",
+      8,
+      0,
+      "BAS",
+      [
+        "FIS-101"
+      ],
+      "II"
+    ],
+    [
+      "Métodos Cuantitativos II",
+      "MAT-201",
+      8,
+      0,
+      "BAS",
+      [
+        "MAT-101"
+      ],
+      "II"
+    ],
+    [
+      "Sensoramiento Remoto",
+      "TEC-201",
+      8,
+      0,
+      "TEC",
+      [
+        "SIG-101"
+      ],
+      "II"
+    ],
+    [
+      "Ciencias de la Tierra",
+      "GEO-201",
+      8,
+      0,
+      "TEC",
+      [
+        "TOP-101"
+      ],
+      "II"
+    ],
+    [
+      "Proyecto Integrador: SR",
+      "INT-201",
+      4,
+      0,
+      "INT",
+      [
+        "INT-101"
+      ],
+      "II"
+    ],
+    [
+      "Inglés II",
+      "ING-201",
+      4,
+      0,
+      "ING",
+      [],
+      "II"
+    ],
+    [
+      "Programas Especiales II",
+      "ESP-201",
+      2,
+      0,
+      "ESP",
+      [],
+      "II"
+    ]
+  ],
+  "s3": [
+    [
+      "Biología y Biodiversidad",
+      "BIO-301",
+      7,
+      0,
+      "BAS",
+      [],
+      "I"
+    ],
+    [
+      "Salud Vegetal y Animal",
+      "SAL-301",
+      7,
+      0,
+      "TEC",
+      [],
+      "I"
+    ],
+    [
+      "Clima y Agrometeorología",
+      "CLI-301",
+      5,
+      0,
+      "BAS",
+      [
+        "FIS-101"
+      ],
+      "I"
+    ],
+    [
+      "Agricultura de Precisión",
+      "AGR-301",
+      7,
+      0,
+      "TEC",
+      [
+        "SIG-101"
+      ],
+      "I"
+    ],
+    [
+      "Programación Aplicada I",
+      "PRO-301",
+      5,
+      0,
+      "TEC",
+      [
+        "MAT-201"
+      ],
+      "I"
+    ],
+    [
+      "Proyecto Integrador: AP",
+      "INT-301",
+      4,
+      0,
+      "INT",
+      [
+        "INT-201"
+      ],
+      "I"
+    ],
+    [
+      "Inglés III",
+      "ING-301",
+      4,
+      0,
+      "ING",
+      [],
+      "I"
+    ],
+    [
+      "Programas Especiales III",
+      "ESP-301",
+      2,
+      0,
+      "ESP",
+      [],
+      "I"
+    ]
+  ],
+  "s4": [
+    [
+      "Fisiología y Nutrición Vegetal",
+      "FIS-401",
+      7,
+      0,
+      "TEC",
+      [
+        "BIO-301"
+      ],
+      "II"
+    ],
+    [
+      "Programación Aplicada II",
+      "PRO-401",
+      5,
+      0,
+      "TEC",
+      [
+        "PRO-301"
+      ],
+      "II"
+    ],
+    [
+      "Cambio Climático y Manejo de Recursos Naturales",
+      "CAM-401",
+      6,
+      0,
+      "TEC",
+      [
+        "CLI-301"
+      ],
+      "II"
+    ],
+    [
+      "Análisis y Modelamiento de Datos",
+      "ANA-401",
+      7,
+      0,
+      "TEC",
+      [
+        "AGR-301"
+      ],
+      "II"
+    ],
+    [
+      "Sistemas Agropecuarios, Agroindustriales y Medio Ambiente",
+      "SIS-401",
+      5,
+      0,
+      "TEC",
+      [],
+      "II"
+    ],
+    [
+      "Proyecto Integrador: MRN/AI",
+      "INT-401",
+      4,
+      0,
+      "INT",
+      [
+        "INT-301"
+      ],
+      "II"
+    ],
+    [
+      "Inglés IV",
+      "ING-401",
+      4,
+      0,
+      "ING",
+      [],
+      "II"
+    ],
+    [
+      "Programas Especiales IV",
+      "ESP-401",
+      2,
+      0,
+      "ESP",
+      [],
+      "II"
+    ]
+  ],
+  "s5": [
+    [
+      "Química Ambiental",
+      "QUI-501",
+      6,
+      0,
+      "TEC",
+      [
+        "QUI-201"
+      ],
+      "I"
+    ],
+    [
+      "Sistemas de Observación Terrestre",
+      "SIS-501",
+      7,
+      0,
+      "TEC",
+      [
+        "AGR-301"
+      ],
+      "I"
+    ],
+    [
+      "Manejo Integrado de Plagas y Enfermedades",
+      "MAN-501",
+      6,
+      0,
+      "TEC",
+      [
+        "QUI-201"
+      ],
+      "I"
+    ],
+    [
+      "Hidrología e Hidrogeología",
+      "HID-501",
+      7,
+      0,
+      "TEC",
+      [
+        "CLI-301"
+      ],
+      "I"
+    ],
+    [
+      "Diseño Experimental",
+      "DIS-501",
+      6,
+      0,
+      "TEC",
+      [
+        "ANA-401"
+      ],
+      "I"
+    ],
+    [
+      "Práctica Profesional Curricular",
+      "PPC-501",
+      5,
+      0,
+      "PRA",
+      [],
+      "I"
+    ],
+    [
+      "Inglés V",
+      "ING-501",
+      4,
+      0,
+      "ING",
+      [],
+      "I"
+    ]
+  ]
+}
